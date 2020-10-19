@@ -14,14 +14,15 @@ Matkul      :Bahasa Pemprograman
 
 * Download Git dahulu, dengan link berikut ini : [Click here](https://git-scm.com/)
 
-![git picture](gambar/git-download.jpg)
+![git picture](foto/git-download.jpg)
 
-* Setelah file terdonwload, silahkan lakukan instalasi dengan reerensi berikut ini : [git instalation Guide](https://phoenixnap.com/kb/how-to-install-git-windows)
+
 
 
 * Setelah Instalasi selesai, buka softwere GitBash pada menu di Windows, dan lakukan pengecekan Versi, dengan mengetik syntax berikut :[git instalation guide] 
 > git --version
 
+![git picture](foto/gitubashhere.jpg)
 
 * Buat akun https://github.com/, seperti contoh dibawah ini. Dan lakukan verifikasi akun melalui email yang sudah terdaftar.
 
