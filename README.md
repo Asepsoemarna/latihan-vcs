@@ -4,7 +4,7 @@ digunakan untuk mengerjakn tugas 4
 Repositori ini di buat untuk memenuhi tugas bahasa pemrograman
 Nama        :Asep Soemarna
 
-NIM         :312010229
+NIM         :312010293
 
 Kelas       :TI.20.B.2
 
