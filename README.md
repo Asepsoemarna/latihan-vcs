@@ -42,7 +42,7 @@ Matkul      :Bahasa Pemprograman
 ![git picture](foto/gitubashhere.jpg)
 
 * Pop Up Command Promot (CMD) akan terluka. pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax berikut :
-> git clone [URL] pada contohnya, saya akan memasukkan git clone https://github.com/bagustriarsa99/Latihan-VCS.git
+> git clone [URL] 
 
 ![git picture](foto/clone.jpg)
 
@@ -53,27 +53,27 @@ Matkul      :Bahasa Pemprograman
 
 * Saat ini kita sudah masuk kedalam folder LatihanVCS. Silahkan edit file *README.md* yang ada di File Explorer. Bisa menggunakan Texs Editor (Sublime Texs, Notepad, Notpad++, Visual Studio Code). Edit sesuai dengan keinginan. Aturan file.md (Markdown) bisa di lihat di Link berikut ini : 
 
-
+![git picture](foto/viewg.jpg)
 
  Setelah file README.md diedit, silahkan simpan file tersebut dengan cara *CTRL+S* atau file -> save
 
  * Langkah selanjutnya setelah file disimpan kita kembali pada App Git Bash (CMD) ketik pada Git Bash seperti berikut ini : 
 
 > git add .
-
+![git picture](foto/gitadd.jpg)
 
 
 * Setelah selesai melakukan git add, langkah berikutnya kita akan melakukan commit. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
 
 > git commit "Update READMY.md"
 
-
+![git picture](foto/comit.jpg)
 
 * Git commit telah selesai dilakukan. Untuk saat ini akan melakukan 
 Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut ini :
 
 > git push 
-
+![git picture](foto/push.jpg)
 
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perunahan yang telah di commit dan push dari remote.
