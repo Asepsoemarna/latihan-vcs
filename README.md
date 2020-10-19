@@ -2,9 +2,9 @@
 digunakan untuk mengerjakn tugas 4
 
 Repositori ini di buat untuk memenuhi tugas bahasa pemrograman
-Nama        :
+Nama        :Asep Soemarna
 
-NIM         :
+NIM         :312010229
 
 Kelas       :TI.20.B.2
 
@@ -78,7 +78,7 @@ Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote 
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perunahan yang telah di commit dan push dari remote.
 
-
+![git picture](foto/end.jpg)
 
 Hal diatas adalah Cara langkah-langkah penggunaan Git 
 
